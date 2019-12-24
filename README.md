@@ -1,6 +1,5 @@
 # awesome-learning
-:octocat: github repository learning resource!
-
+:octocat: Github repository learning resource!
 
 ## Java/Kotlin
 
@@ -248,11 +247,13 @@
 * [facert/awesome-spider](https://github.com/facert/awesome-spider) 爬虫集合
 
 > 面试
->
+
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、`Leetcode`、计算机操作系统、计算机网络、系统设计、`Java`、`Python`、`C++ `
 * [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理 
 * [jwasham/interview-university](https://github.com/jwasham/coding-interview-university) 一套完整的学习手册帮助自己准备 `Google` 的面试[中文版](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
+* [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘 
+
 
 > 其他
 
@@ -260,7 +261,6 @@
 * [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱 
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action) 全栈增长工程师实战
 * [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) 这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。
-* [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘 
 * [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) 一些平时实用的脚本   
 * [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) 收集所有区块链(BlockChain)技术开发相关资料，包括`Fabric`和`Ethereum`开发资料
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序开发资源汇总 💯
@@ -268,4 +268,6 @@
 * [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) 计算机相关技术资料整理
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) A collection of (mostly) technical things every software developer should know
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The [freeCodeCamp](https://www.freeCodeCamp.org) open source codebase and curriculum. Learn to code for free together with millions of people.
+
+
 
