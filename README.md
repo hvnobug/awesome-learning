@@ -1,16 +1,17 @@
 # awesome-learning
 :octocat: Github repository learning resource!
 
+
 ## Java/Kotlin
 
 > 基础/面试/算法
 
-* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【`Java`学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [JackChan1999/Kotlin-Tutorials](https://github.com/JackChan1999/Kotlin-Tutorials) `Kotlin`基础教程
 * [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) 一线互联网公司的 Java 和 Android 方面的内部面试题
 * [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) 处于萌芽阶段的 `Java` 核心知识库。
 * [AweiLoveAndroid/CommonDevKnowledge](https://github.com/AweiLoveAndroid/CommonDevKnowledge) :octocat:🔥 🌟⭐️⭐️⭐️ ⭐️ 史上最全的BAT大厂`Android`面试题汇集，以及常用的`Android`开发的一些技能点，冷门知识点汇总，开发中遇到的坑汇总等干货。
-* [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) `LeetCode` 上面主要收集了各大 IT 公司的笔试面试题,该项目为 LeetCode Java 语言的题解集合
+* [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) `LeetCode` 上面主要收集了各大 IT 公司的笔试面试题,该项目为 `LeetCode` `Java` 语言的题解集合
 * [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) 大数据入门指南 ⭐️
 * [ZXZxin/ZXBlog](https://github.com/ZXZxin/ZXBlog) 记录各种学习笔记(算法、`Java`、数据库、并发......)
 * [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented
@@ -20,18 +21,18 @@
 * [francistao/LearningNotes](https://github.com/francistao/LearningNotes) 很全面的学习笔记，偏向 `Android` 和 `Java`
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) To Be Top Javaer - `Java`工程师成神之路
 * [doocs/advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-* [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
+* [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) Java is Growing up but not only `Java`。`Java`成长路线，但学到不仅仅是`Java`。
 
 > Spring系列
 
-* [spring-projects/spring-data-examples](https://github.com/spring-projects/spring-data-examples) Spring Data Example Projects
-* [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. `Spring Boot` 教程、技术栈示例代码，快速简单上手教程
-* [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) Spring源码阅读
-* [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) Spring Boot基础教程
+* [spring-projects/spring-data-examples](https://github.com/spring-projects/spring-data-examples) `Spring Data` Example Projects
+* [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning `Spring Boot` via examples. `Spring Boot` 教程、技术栈示例代码，快速简单上手教程
+* [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) `Spring`源码阅读
+* [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) `Spring Boot`基础教程
 * [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) `spring boot` 实践学习案例，是 `spring boot` 初学者及核心技术巩固的最佳实践。
-* [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) spring boot demo 是一个用来深度学习并实战 `spring boot` 的项目，目前总共包含 65 个集成demo，已经完成 52 个。
+* [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) `spring boot demo` 是一个用来深度学习并实战 `spring boot` 的项目，目前总共包含 65 个集成demo，已经完成 52 个。
 * [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) 《史上最简单的Spring Cloud教程源码》
-* [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) Spring Cloud基础教程，持续连载更新中 
+* [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) `Spring Cloud`基础教程，持续连载更新中 
 * [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习`Spring Boot`、`Spring Boot` & `Shiro`、`Spring Cloud`、`Spring Security` & `Spring Security OAuth2`，博客`Spring`系列源码
 * [ityouknow/spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples) `Spring Cloud` 学习案例，服务发现、服务治理、链路追踪、服务监控等
 
@@ -41,8 +42,8 @@
 * [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 * [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) `Java`资源大全中文版
 * [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
-* [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 `Flink Connector`、`Metrics`、`Library`、`DataStream API`、`Table API` & `SQL` 等内容的学习案例，还有 `Flink` 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。 
-* [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) kotlin 官方文档翻译 
+* [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) flink learning blog. http://www.54tianzhisheng.cn 含 `Flink` 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 `Flink Connector`、`Metrics`、`Library`、`DataStream API`、`Table API` & `SQL` 等内容的学习案例，还有 `Flink` 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。 
+* [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) `kotlin` 官方文档翻译 
 * [2227324689/gpmall](https://github.com/2227324689/gpmall) 【咕泡学院实战项目】-基于`SpringBoot`+`Dubbo`构建的电商平台-微服务架构、商城、电商、微服务、高并发、`kafka`、`Elasticsearch`
 * [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了`SpringBoot2.1.3`、`MyBatis3.4.6`、`Elasticsearch6.2.2`、`RabbitMQ3.7.15`、`Redis3.2`、`Mongodb3.2`、`Mysql5.7`等技术，采用`Docker`容器化部署。
 * [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) Modern Java - A Guide to Java 8 http://winterbe.com
@@ -61,8 +62,17 @@
 * [shimohq/react-cookbook](https://github.com/shimohq/react-cookbook) 编写简洁漂亮，可维护的 `React` 应用
 * [Juliiii/React-Cnode](https://github.com/Juliiii/React-Cnode) 适合新手的 `React` 全家桶项目学习
 
+> Nodejs
+
+* [alsotang/node-lessons](https://github.com/alsotang/node-lessons) `Node.js` 包教不包会
+* [nqdeng/7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) 七天学会`NodeJS`
+
+
+
 > 其他
 
+* [Platform-CUF/use-gulp](https://github.com/Platform-CUF/use-gulp) gulp资料收集
+* [dolymood/AngularLearning](https://github.com/dolymood/AngularLearning) `Angular.js` 的一些学习资源
 * [project-guidelines](https://github.com/elsewhencode/project-guidelines) `JavaScript` 项目规范
 * [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) `JavaScript` 进阶问题列表 ✨
 * [pd4d10/js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch) 从零开始构建 `JavaScript` 技术栈
@@ -70,7 +80,7 @@
 * [chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) 📚 现代 `Web` 开发
 * [DMQ/mvvm](https://github.com/DMQ/mvvm) 剖析`Vue`实现原理 - 如何实现双向绑定 `mvvm`
 * [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) `JavaScript` 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、`QA、MVC`框架和库、模板引擎等
-* [airbnb/javascript](https://github.com/airbnb/javascript) A mostly reasonable approach to JavaScript
+* [airbnb/javascript](https://github.com/airbnb/javascript) A mostly reasonable approach to `JavaScript`
 
 ## Python
 
@@ -82,8 +92,8 @@
 * [xianhu/LearnPython](https://github.com/xianhu/LearnPython) 以撸代码的形式学习`Python `
 * [qiwsir/algorithm](https://github.com/qiwsir/algorithm) 老齐的 `Python` 算法教程
 * [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) 关于`Python`的面试题
-* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python
-* [faif/python-patterns](https://github.com/faif/python-patterns) A collection of design patterns and idioms in Python.
+* [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in `Python`
+* [faif/python-patterns](https://github.com/faif/python-patterns) A collection of design patterns and idioms in `Python`.
 * [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) Sample code for Channel 9 Python for Beginners course
 
 > 机器学习/人工智能
@@ -105,11 +115,12 @@
 
 > 其他
 
+* [satwikkansal/wtfpython-cn](https://github.com/satwikkansal/wtfpython-cn) wtfpython([中文版]
 * [Tim9Liu9/TimLiu-Python](https://github.com/Tim9Liu9/TimLiu-Python) `python`资源集合与开源硬件
 * [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) `Python`资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等
 * [michaelliao/awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp) 小白的`Python`入门教程实战篇：网站+`iOS App`源码
-* [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) 这个repo是这本书PDF的所有源代码，几乎都被测试过，能正常运行。程序使用的图片和视频，都在data文件内。平时会添加一些有趣的代码，实现某种功能。
-* [shihyu/python_ebook](https://github.com/shihyu/python_ebook) Python 编程相关的电子书资源集合项目
+* [makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) 这个repo是这本书PDF的所有源代码，几乎都被测试过，能正常运行。程序使用的图片和视频，都在 data 文件内。平时会添加一些有趣的代码，实现某种功能。
+* [shihyu/python_ebook](https://github.com/shihyu/python_ebook) `Python` 编程相关的电子书资源集合项目
 * [aosabook/500lines](https://github.com/aosabook/500lines) （英文）用少于 500 行的 `Python` 代码，你可以写出什么东西？相信你看完这个项目，会学到很多（每个项目的作者都是业内大神写的）。[中文翻译版（未翻译完）](https://github.com/HT524/500LineorLess_CN)
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh) 📚 一起写`Python`文章，一起看Python文章 - 利用`readthedocs`的`Python`技术文章的收集和翻译。
 
@@ -120,6 +131,9 @@
 
 ## 工具
 
+* [jikeytang/sublime-text](https://github.com/jikeytang/sublime-text) `sublime-text`
+* [xirong/my-git](https://github.com/xirong/my-git) `git`的资料整理
+* [phodal/github](https://github.com/phodal/github) `GitHub` 漫游指南 
 * [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) `Git`的奇技淫巧🙈
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) `GitHub` 和 `Git` 的秘籍
 * [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) `IntelliJ IDEA` 简体中文专题教程
@@ -133,6 +147,7 @@
 
 * [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略
 * [CoolPhilChen/SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) 上海交通大学课程资料分享
+* [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) 中国科学技术大学课程资源
 * [lib-pku/libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 
 * [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 
 * [ruanyf/jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
@@ -143,6 +158,7 @@
 
 > Javascript
 
+* [es6-org/exploring-es6](https://github.com/es6-org/exploring-es6) 《 Exploring ES6 》的翻译
 * [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 * [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) 开源、免费、专业、简单的 `React.js` 在线教程
 
@@ -161,7 +177,7 @@
 
 > Go
 
-* [go101/go101](https://github.com/go101/go101) An online book focusing on Go syntax/semantics. 
+* [go101/go101](https://github.com/go101/go101) An online book focusing on `Go` syntax/semantics. 
 * [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) 📚 《Go语言高级编程》开源图书，涵盖`CGO`、`Go`汇编语言、`RPC`实现、`Protobuf`插件实现、`Web`框架实现、分布式系统等高阶主题
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) 《Go Web 编程》中文
 
@@ -200,63 +216,68 @@
 * [me115/design_patterns](https://github.com/me115/design_patterns) 《图说设计模式》
 * [taobao/nginx-book](https://github.com/taobao/nginx-book) Nginx开发从入门到精通
 * [yangyangwithgnu/the_new_world_linux](https://github.com/yangyangwithgnu/the_new_world_linux) 《Linux 下的惬意生活》
-* [Snowming04/The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation) [译] 渗透测试实战第三版(红队版)
+* [Snowming04/The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation) 【译】 渗透测试实战第三版(红队版)
 
-## 其他
 
-> 基础/算法
+## 基础/算法
 
 * [wangzheng0822/algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) Learn regex the easy way
-* [tangweikun/awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) 💅 A collection of awesome leetcode solutions
+* [tangweikun/awesome-leetcode](https://github.com/tangweikun/awesome-leetcode) 💅 A collection of awesome `leetcode` solutions
 * [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 用动画的形式呈现解`LeetCode`题目的思路
 
 
-> 前端
+## 前端
 
+* [jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) 移动端知识集合
+* [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) 腾讯移动 Web 前端知识库
+* [hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) 移动开发大杂烩
+* [JacksonTian/fks](https://github.com/JacksonTian/fks) 前端技能汇总
 * [dt-fe/weekly](https://github.com/dt-fe/weekly) 前端精读周刊
+* [baidu-ife/ife](https://github.com/baidu-ife/ife) 百度前端技术学院
+* [jnoodle/f2e-collect](https://github.com/jnoodle/f2e-collect) 前端网站及资源导航
 * [qianguyihao/Web](https://github.com/qianguyihao/Web) 前端入门和进阶学习笔记，超详细的Web前端学习图文教程。
 * [dongyuanxin/blog](https://github.com/dongyuanxin/blog) 📚 专注前端 - 这是一个专注于前端与算法的博客。
 * [aliyunfe/weekly](https://github.com/aliyunfe/weekly) 《阿里云前端技术周刊》
 * [fex-team/styleguide](https://github.com/fex-team/styleguide) 百度前端研发团队的文档与源码编写风格
 * [ddzy/fe-necessary-book](https://github.com/ddzy/fe-necessary-book) :bowtie: 前端开发者必读的精品pdf集合
 * [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 高级前端进阶
-* [storybookjs/storybook](https://github.com/storybookjs/storybook) 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! 
+* [storybookjs/storybook](https://github.com/storybookjs/storybook) 📓 UI component dev & test: `React`, `Vue`, `Angular`, `React Native`, `Ember`, `Web Components` & more! 
+* [unruledboy/WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack) web front end stack: browsers, platforms, libraries, frameworks, tools etc.
 
 
-
-> 后端
+## 后端
 
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱
 * [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试 
 
-> 系统架构
+## 系统架构
 
 * [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 
-
-> 大数据/人工智能
+## 大数据/人工智能
 
 * [shijinkui/spark_study](https://github.com/shijinkui/spark_study) `Spark` 源码阅读笔记
 * [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问
 * [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 100 Days of ML Coding
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
 
-> 爬虫
+## 爬虫
 
 * [facert/awesome-spider](https://github.com/facert/awesome-spider) 爬虫集合
 
-> 面试
+## 面试
 
+* [kdn251/interviews](https://github.com/kdn251/interviews) 软件工程技术面试个人指南
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、`Leetcode`、计算机操作系统、计算机网络、系统设计、`Java`、`Python`、`C++ `
 * [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理 
 * [jwasham/interview-university](https://github.com/jwasham/coding-interview-university) 一套完整的学习手册帮助自己准备 `Google` 的面试[中文版](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 * [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘 
 
+## 其他
 
-> 其他
-
+* [LearnShare/Learning-Markdown](https://github.com/LearnShare/Learning-Markdown) `Markdown` 入门参考
 * [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) 国内顶尖团队的开源地址
 * [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱 
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action) 全栈增长工程师实战
@@ -268,6 +289,6 @@
 * [EZLippi/practical-programming-books](https://github.com/EZLippi/practical-programming-books) 计算机相关技术资料整理
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) A collection of (mostly) technical things every software developer should know
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The [freeCodeCamp](https://www.freeCodeCamp.org) open source codebase and curriculum. Learn to code for free together with millions of people.
-
+* [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) Curated list of project-based tutorials
 
 
