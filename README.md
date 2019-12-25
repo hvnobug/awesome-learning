@@ -6,6 +6,7 @@
 
 > 基础/面试/算法
 
+* [doocs/advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【`Java`学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [JackChan1999/Kotlin-Tutorials](https://github.com/JackChan1999/Kotlin-Tutorials) `Kotlin`基础教程
 * [JackyAndroid/AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) 一线互联网公司的 Java 和 Android 方面的内部面试题
@@ -20,8 +21,8 @@
 
 * [francistao/LearningNotes](https://github.com/francistao/LearningNotes) 很全面的学习笔记，偏向 `Android` 和 `Java`
 * [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) To Be Top Javaer - `Java`工程师成神之路
-* [doocs/advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 `Java` 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 * [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) Java is Growing up but not only `Java`。`Java`成长路线，但学到不仅仅是`Java`。
+* [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 
 > Spring系列
 
@@ -39,7 +40,6 @@
 > 其他
 
 * [DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java) 27天成为`Java`大神
-* [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 * [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) `Java`资源大全中文版
 * [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
 * [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) flink learning blog. http://www.54tianzhisheng.cn 含 `Flink` 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 `Flink Connector`、`Metrics`、`Library`、`DataStream API`、`Table API` & `SQL` 等内容的学习案例，还有 `Flink` 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。 
@@ -115,7 +115,6 @@
 
 > 其他
 
-* [satwikkansal/wtfpython-cn](https://github.com/satwikkansal/wtfpython-cn) wtfpython([中文版]
 * [Tim9Liu9/TimLiu-Python](https://github.com/Tim9Liu9/TimLiu-Python) `python`资源集合与开源硬件
 * [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) `Python`资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等
 * [michaelliao/awesome-python-webapp](https://github.com/michaelliao/awesome-python-webapp) 小白的`Python`入门教程实战篇：网站+`iOS App`源码
@@ -123,7 +122,7 @@
 * [shihyu/python_ebook](https://github.com/shihyu/python_ebook) `Python` 编程相关的电子书资源集合项目
 * [aosabook/500lines](https://github.com/aosabook/500lines) （英文）用少于 500 行的 `Python` 代码，你可以写出什么东西？相信你看完这个项目，会学到很多（每个项目的作者都是业内大神写的）。[中文翻译版（未翻译完）](https://github.com/HT524/500LineorLess_CN)
 * [MrKiven/PyZh](https://github.com/MrKiven/PyZh) 📚 一起写`Python`文章，一起看Python文章 - 利用`readthedocs`的`Python`技术文章的收集和翻译。
-
+* [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
 
 ## Golang
 
@@ -152,6 +151,7 @@
 * [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 
 * [ruanyf/jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) 📚 List of awesome university courses for learning Computer Science!
+* [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) Course Files for Complete Python 3 Bootcamp Course on Udemy
 
 ## 书籍
 
@@ -290,5 +290,6 @@
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) A collection of (mostly) technical things every software developer should know
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The [freeCodeCamp](https://www.freeCodeCamp.org) open source codebase and curriculum. Learn to code for free together with millions of people.
 * [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) Curated list of project-based tutorials
+
 
 
