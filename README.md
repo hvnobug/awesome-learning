@@ -33,7 +33,7 @@
 * [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) `spring boot` 实践学习案例，是 `spring boot` 初学者及核心技术巩固的最佳实践。
 * [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) `spring boot demo` 是一个用来深度学习并实战 `spring boot` 的项目，目前总共包含 65 个集成demo，已经完成 52 个。
 * [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) 《史上最简单的Spring Cloud教程源码》
-* [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) `Spring Cloud`基础教程，持续连载更新中 
+* [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) `Spring Cloud`基础教程，持续连载更新中
 * [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习`Spring Boot`、`Spring Boot` & `Shiro`、`Spring Cloud`、`Spring Security` & `Spring Security OAuth2`，博客`Spring`系列源码
 * [ityouknow/spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples) `Spring Cloud` 学习案例，服务发现、服务治理、链路追踪、服务监控等
 
@@ -42,8 +42,8 @@
 * [DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java) 27天成为`Java`大神
 * [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) `Java`资源大全中文版
 * [zhanglei-workspace/shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
-* [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) flink learning blog. http://www.54tianzhisheng.cn 含 `Flink` 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 `Flink Connector`、`Metrics`、`Library`、`DataStream API`、`Table API` & `SQL` 等内容的学习案例，还有 `Flink` 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。 
-* [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) `kotlin` 官方文档翻译 
+* [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) flink learning blog. http://www.54tianzhisheng.cn 含 `Flink` 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 `Flink Connector`、`Metrics`、`Library`、`DataStream API`、`Table API` & `SQL` 等内容的学习案例，还有 `Flink` 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。
+* [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) `kotlin` 官方文档翻译
 * [2227324689/gpmall](https://github.com/2227324689/gpmall) 【咕泡学院实战项目】-基于`SpringBoot`+`Dubbo`构建的电商平台-微服务架构、商城、电商、微服务、高并发、`kafka`、`Elasticsearch`
 * [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) mall学习教程，架构、业务、技术要点全方位解析。mall项目（25k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了`SpringBoot2.1.3`、`MyBatis3.4.6`、`Elasticsearch6.2.2`、`RabbitMQ3.7.15`、`Redis3.2`、`Mongodb3.2`、`Mysql5.7`等技术，采用`Docker`容器化部署。
 * [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) Modern Java - A Guide to Java 8 http://winterbe.com
@@ -52,7 +52,7 @@
 
 * [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) 该项目包含了一些常用的 `CSS` 样式示例和作者阅读《CSS揭秘》的收获分享，适合于想要提高 `CSS` 技能的同学
 
-## Js/Ts
+## Javascript
 
 > React系列
 
@@ -76,11 +76,16 @@
 * [project-guidelines](https://github.com/elsewhencode/project-guidelines) `JavaScript` 项目规范
 * [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) `JavaScript` 进阶问题列表 ✨
 * [pd4d10/js-stack-from-scratch](https://github.com/pd4d10/js-stack-from-scratch) 从零开始构建 `JavaScript` 技术栈
-* [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) `TypeScript` 入门教程 
 * [chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) 📚 现代 `Web` 开发
 * [DMQ/mvvm](https://github.com/DMQ/mvvm) 剖析`Vue`实现原理 - 如何实现双向绑定 `mvvm`
 * [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) `JavaScript` 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、`QA、MVC`框架和库、模板引擎等
 * [airbnb/javascript](https://github.com/airbnb/javascript) A mostly reasonable approach to `JavaScript`
+
+## Typescript
+
+* [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) `TypeScript` 入门教程
+* [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) `TypeScript`使用手册
+* [basarat/typescript-book](https://github.com/basarat/typescript-book) 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹
 
 ## Python
 
@@ -98,7 +103,7 @@
 
 > 机器学习/人工智能
 
-* [apachecn/AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP 
+* [apachecn/AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 * [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) PyTorch Tutorial for Deep Learning Researchers
 
 > Opencv
@@ -132,13 +137,13 @@
 
 * [jikeytang/sublime-text](https://github.com/jikeytang/sublime-text) `sublime-text`
 * [xirong/my-git](https://github.com/xirong/my-git) `git`的资料整理
-* [phodal/github](https://github.com/phodal/github) `GitHub` 漫游指南 
+* [phodal/github](https://github.com/phodal/github) `GitHub` 漫游指南
 * [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) `Git`的奇技淫巧🙈
 * [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) `GitHub` 和 `Git` 的秘籍
 * [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) `IntelliJ IDEA` 简体中文专题教程
 * [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) `Vim` 从入门到精通
 * [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) `Linux`命令大全搜索工具，内容包含`Linux`命令手册、详解、学习、搜集。
-* [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) `Linux`工具快速教程 
+* [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst) `Linux`工具快速教程
 * [OrwillT/Visual-Studio-Code-Keymap-CN](https://github.com/OrwillT/Visual-Studio-Code-Keymap-CN) `VS Code` 编辑器官方快捷键查图汉化版
 
 
@@ -147,8 +152,8 @@
 * [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略
 * [CoolPhilChen/SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses) 上海交通大学课程资料分享
 * [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) 中国科学技术大学课程资源
-* [lib-pku/libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 
-* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 
+* [lib-pku/libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理
+* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划
 * [ruanyf/jstraining](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) 📚 List of awesome university courses for learning Computer Science!
 * [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) Course Files for Complete Python 3 Bootcamp Course on Udemy
@@ -161,6 +166,10 @@
 * [es6-org/exploring-es6](https://github.com/es6-org/exploring-es6) 《 Exploring ES6 》的翻译
 * [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) 《ECMAScript 6入门》是一本开源的 `JavaScript` 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 * [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) 开源、免费、专业、简单的 `React.js` 在线教程
+
+> Typescript
+
+* [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) TypeScript Deep Dive 中文版
 
 > Java
 
@@ -177,7 +186,7 @@
 
 > Go
 
-* [go101/go101](https://github.com/go101/go101) An online book focusing on `Go` syntax/semantics. 
+* [go101/go101](https://github.com/go101/go101) An online book focusing on `Go` syntax/semantics.
 * [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) 📚 《Go语言高级编程》开源图书，涵盖`CGO`、`Go`汇编语言、`RPC`实现、`Protobuf`插件实现、`Web`框架实现、分布式系统等高阶主题
 * [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) 《Go Web 编程》中文
 
@@ -211,7 +220,7 @@
 * [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 《编程之法：面试和算法心得》
 * [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 📚 免费的计算机编程类中文书籍
 * [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) 《Flutter实战》电子书 
+* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) 《Flutter实战》电子书
 * [feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook) SDN网络指南（SDN Handbook）
 * [me115/design_patterns](https://github.com/me115/design_patterns) 《图说设计模式》
 * [taobao/nginx-book](https://github.com/taobao/nginx-book) Nginx开发从入门到精通
@@ -242,14 +251,14 @@
 * [fex-team/styleguide](https://github.com/fex-team/styleguide) 百度前端研发团队的文档与源码编写风格
 * [ddzy/fe-necessary-book](https://github.com/ddzy/fe-necessary-book) :bowtie: 前端开发者必读的精品pdf集合
 * [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 高级前端进阶
-* [storybookjs/storybook](https://github.com/storybookjs/storybook) 📓 UI component dev & test: `React`, `Vue`, `Angular`, `React Native`, `Ember`, `Web Components` & more! 
+* [storybookjs/storybook](https://github.com/storybookjs/storybook) 📓 UI component dev & test: `React`, `Vue`, `Angular`, `React Native`, `Ember`, `Web Components` & more!
 * [unruledboy/WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack) web front end stack: browsers, platforms, libraries, frameworks, tools etc.
 
 
 ## 后端
 
 * [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱
-* [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试 
+* [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 
 ## 系统架构
 
@@ -270,19 +279,19 @@
 
 * [kdn251/interviews](https://github.com/kdn251/interviews) 软件工程技术面试个人指南
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、`Leetcode`、计算机操作系统、计算机网络、系统设计、`Java`、`Python`、`C++ `
-* [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理 
+* [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) 笔试面试知识整理
 * [jwasham/interview-university](https://github.com/jwasham/coding-interview-university) 一套完整的学习手册帮助自己准备 `Google` 的面试[中文版](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
-* [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘 
+* [paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘
 
 ## 其他
 
 * [LearnShare/Learning-Markdown](https://github.com/LearnShare/Learning-Markdown) `Markdown` 入门参考
 * [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) 国内顶尖团队的开源地址
-* [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱 
+* [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱
 * [phodal/growth-in-action](https://github.com/phodal/growth-in-action) 全栈增长工程师实战
 * [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) 这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。
-* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) 一些平时实用的脚本   
+* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) 一些平时实用的脚本
 * [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) 收集所有区块链(BlockChain)技术开发相关资料，包括`Fabric`和`Ethereum`开发资料
 * [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序开发资源汇总 💯
 * [ruanyf/weekly](https://github.com/ruanyf/weekly) 阮一峰技术分享周刊，每周五发布
@@ -290,6 +299,3 @@
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) A collection of (mostly) technical things every software developer should know
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The [freeCodeCamp](https://www.freeCodeCamp.org) open source codebase and curriculum. Learn to code for free together with millions of people.
 * [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) Curated list of project-based tutorials
-
-
-
